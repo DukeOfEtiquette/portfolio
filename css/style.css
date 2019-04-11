@@ -22,7 +22,7 @@
 
 body {
   margin-top: 80px;
-  background-color: var(--one);
+  background-color: var(--two);
 }
 
 a {
@@ -40,7 +40,7 @@ a {
 .wrapper {
   margin: 50px 10%;
   border: var(--border0);
-  background-color: var(--one);
+  background-color: var(--two);
 }
 
 .box {
