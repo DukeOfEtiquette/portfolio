@@ -38,7 +38,8 @@ a {
   color: var(--chalk_blue);
   font-size: 5.75em;
   margin: 0;
-  font-family: 'Share Tech Mono', monospace;
+  font-family: 'Darker Grotesque', sans-serif;
+  /* font-family: 'Share Tech Mono', monospace; */
 }
 
 .wrapper {
