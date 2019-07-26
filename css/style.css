@@ -3,6 +3,8 @@
   --two: #222222;
   --three: #333333;
   --six: #666666;
+  /* --chalk_blue: #5a8391; */
+  --chalk_blue: #65acc4;
   --bg1: #ffffff;
   --bg2: #333333;
   --border0: none;
@@ -22,7 +24,7 @@
 
 body {
   margin-top: 80px;
-  background-color: var(--two);
+  background-color: var(--bg2);
 }
 
 a {
@@ -31,7 +33,9 @@ a {
 
 #title {
   text-align: center;
-  color: #516d77;
+  /* color: #516d77; */
+  /* color: #5a8391; */
+  color: var(--chalk_blue);
   font-size: 5.75em;
   margin: 0;
   font-family: 'Share Tech Mono', monospace;
@@ -40,7 +44,7 @@ a {
 .wrapper {
   margin: 50px 10%;
   border: var(--border0);
-  background-color: var(--two);
+  background-color: var(--bg2);
 }
 
 .box {
@@ -69,7 +73,6 @@ a {
 .names {
   font-family: "Lato", sans-serif;
   font-size: 20px;
-  --chalk_blue: #516d77;
   color: var(--chalk_blue);
 }
 
