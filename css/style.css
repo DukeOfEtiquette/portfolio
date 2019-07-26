@@ -97,12 +97,12 @@ a {
   #title {
     grid-column-start: 1;
     grid-column-end: 2;
-    font-size: 3em;
+    font-size: 3.5em;
     margin-top: 25px;
   }
 
   .card {
-    margin: 20px;
+    margin: 20px 70px;
   }
 
   .logos {
